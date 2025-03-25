@@ -1,11 +1,11 @@
 - 🧑‍🎓 Graduated and Master in Computer Science (UFS)
-- 🧑‍🎓 PhD candidate in Computer Science (UFPE)
+- 📚 PhD candidate in Computer Science (UFPE)
 - 👨‍🏫 College Teacher
 - 🧑‍💻 Data Developer
 - 🔗 www.linkedin.com/in/yúri-faro-75568a14b
 
 # Github Statistics
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,ruby,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,ruby,mysql,postgres,git,aws,linux,jenkins,grafana,raspberrypi)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/yurifarod">
