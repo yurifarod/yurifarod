@@ -1,16 +1,13 @@
-## Hi there 👋
+- 🧑‍🎓 Graduated and Master in Computer Science (UFS)
+- 🧑‍🎓 PhD candidate in Computer Science (UFPE)
+- 👨‍🏫 College Teacher
+- 🧑‍💻 Data Developer
+- 🔗 www.linkedin.com/in/yúri-faro-75568a14b
 
-<!--
-**yurifarod/yurifarod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Github Statistics
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,ruby,cs,github)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/yurifarod">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifarod&layout=compact&langs_count=16&theme=dark"/>
+</div>
