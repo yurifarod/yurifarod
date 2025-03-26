@@ -8,6 +8,5 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,ruby,cs,mysql,postgres,git,aws,linux,jenkins,grafana,raspberrypi)](https://skillicons.dev)
 
 <div>
-  <a href="https://github.com/yurifarod">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifarod&layout=compact&langs_count=16&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifarod&layout=compact&langs_count=14&theme=dark"/>
 </div>
