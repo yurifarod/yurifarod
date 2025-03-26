@@ -5,7 +5,7 @@
 - 🔗 www.linkedin.com/in/yúri-faro-75568a14b
 
 # Github Statistics
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,ruby,mysql,postgres,git,aws,linux,jenkins,grafana,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,ruby,cs,mysql,postgres,git,aws,linux,jenkins,grafana,raspberrypi)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/yurifarod">
