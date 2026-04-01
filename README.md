@@ -1,5 +1,6 @@
 # Yúri Faro
-- 🧑‍🎓 Graduated and Master in Computer Science (UFS)
+- 🧑‍🎓 BSc in Computer Science (UFS)
+- 🧑‍🎓 MSc in Computer Science (UFS)
 - 🧑‍🎓 MBA in Business Intelligence
 - 🧑‍🎓 MBA in Data Science and Big Data
 - 📚 PhD candidate in Computer Science (UFPE)
